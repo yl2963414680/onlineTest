@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "auto/static/js/main.ae4b6061.bundle.js",
+    "runtime.js": "auto/static/js/runtime.137306e3.bundle.js",
+    "vendors-3f5b0bbd.js": "auto/static/js/vendors-3f5b0bbd_vendors.js",
+    "vendors-7a7537ae.js": "auto/static/js/vendors-7a7537ae.a7e3ae66.bundle.js",
+    "favicon.ico": "auto/favicon.ico",
+    "index.html": "auto/index.html"
+  },
+  "entryPoints": [
+    "static/js/runtime.137306e3.bundle.js",
+    "static/js/vendors-7a7537ae.a7e3ae66.bundle.js",
+    "static/js/vendors-3f5b0bbd_vendors.js",
+    "static/js/main.ae4b6061.bundle.js"
+  ]
+}
